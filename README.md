@@ -8,14 +8,10 @@
 
 Mission : Déployer une application rails en manipulant les différentes méthodes du CRUD
 
-  - Projet 1 : The movie database
-
-  - Projet 2 : The gossip project
-
 
 ## Petit mot
 
-Degemer mat l'ami correcteur ! 
+**Degemer mat l'ami correcteur !** 
 
 (En gros j'te souhaite la bienvenue en Breton.. => [clik là](https://youtu.be/3CwJiM9WJ0M) :notes:)
 
@@ -27,7 +23,7 @@ J'ai un peu ramé, seule avec mon app rails et heroku !
 Merci à @Aude et @Paul pour leur aide précieuse :pray:
 
 
-## Les exercices :
+## Les projets :
 
 **1 - The movie database**
 
@@ -52,6 +48,6 @@ Merci à @Aude et @Paul pour leur aide précieuse :pray:
 
 ## Jordane :pig::love_letter:
 
-:pray: :snail: Kenavo :heart: :smile:
+:pray: :snail: Trugarez & Kenavo ! :heart: :smile:
 
 * Sur Slack -> : @Jordane
