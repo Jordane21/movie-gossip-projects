@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <%= render "layouts/header" %>
+
+    <title>The Gossip Project</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css"/>
+
+  </head>
+
+  <body>
+    <%= yield %>
+  </body>
+</html>

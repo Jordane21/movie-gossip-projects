@@ -1,0 +1,10 @@
+<h1>Balance ton Gossip Biaatch </h1>
+
+<form action="<%= create_gossip_path %>" method="POST">
+<input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+  Pseudo : <br>
+<input type="text" name="anonymous_author"><br>
+Gossip <br>
+  <textarea name="content" rows="10" cols="30">
+  </textarea>  <input type="submit" value="Envoyer le Gossip'">
+</form>
