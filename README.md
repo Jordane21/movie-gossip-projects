@@ -46,8 +46,6 @@ Merci à @aude et @paul pour leur aide précieuse :pray:
 
 ## Jordane :pig::love_letter:
 
-:pray: :snail: Bon, j'avance pas vite, mais j'avance ! :smile:
+:pray: :snail: Kenavo :heart: :smile:
 
-###### Slack 
-
-* Jordane : @Jordane
+* Sur Slack -> : @Jordane
