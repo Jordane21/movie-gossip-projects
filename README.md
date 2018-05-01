@@ -20,7 +20,9 @@ Degemer mat l'ami correcteur !
 (En gros j'te souhaite la bienvenue en Breton.. => [clik là](https://youtu.be/3CwJiM9WJ0M) :notes:)
 
 Mon pair-programmeur étant malade, PLS totale dans son lit le pauvre... 
+
 J'ai un peu ramé, seule avec mon app rails et heroku ! 
+
 Merci à @aude et @paul pour leur aide précieuse :pray:
 
 
