@@ -13,7 +13,7 @@ Mission : Déployer une application rails en manipulant les différentes méthod
 
 **Degemer mat l'ami correcteur !** 
 
-(En gros j'te souhaite la bienvenue en Breton.. => [clik là](https://youtu.be/3CwJiM9WJ0M) :notes:)
+*(En gros j'te souhaite la bienvenue en Breton.. => [clik là](https://youtu.be/3CwJiM9WJ0M) :notes:)*
 
 
 Mon pair-programmeur étant malade, PLS totale dans son lit le pauvre... 
