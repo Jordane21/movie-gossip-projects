@@ -1,0 +1,13 @@
+<div align="center">
+<h1>🎥 The Movies Database ! 🎥</h1><br>
+<br>
+<p> 🐽 ❤️ Here are 5 of my favorites movies ❤️ 🐽</p>
+<br>
+<% @movies.each do |movie| %>
+<p><%= movie.title %>, réalisé par <%= movie.director.last_name %> <%= movie.director.first_name %>, sorti en <%= movie.release_year %></p>
+<% end %>
+</div>
+
+
+
+    
